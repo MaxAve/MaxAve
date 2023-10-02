@@ -1,2 +1,7 @@
 # About me #
-I've been learning coding since I was 11 or so, I am currently in middle school (going to high school this summer), and I work on my projects in my free time. I'm currently working on a chess engine, you can visit the MaxAve/NerdChess repo to learn more. Last year I did a short, 2 week internship at a small company that develops drones that help with logistics, I wrote a small program which initiates a short test flight and reports back on whether all hardware is working. I am hoping to do a longer internship during the summer holidays in my school.
+- Learning programming since I was 10 or so.
+- Currently a high school student (technically there is no such thing as "high school" where I live, but if I were to live in the US I would be considered a high school student).
+- I primarily work on small personal projects in my free time, such as my new chess engine PACE and my image editor PXArt (at the time of writing, PXArt is not on GitHub just yet, but it should come out soon).
+- My primary programming languages are Java, C/C++, and Python. I also know a little JavaScript and C#.
+- My most outstanding achievement is making a "Hello World" program in Assembly.
+- My hobbies are playing chess, programming, and sleeping.
